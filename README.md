@@ -81,9 +81,9 @@ All your information in any device, anywhere, everytime.
 
 ## **Demo**
 
-- [Web app]()
+- [Web app](https://myhal.club/)
 
-- [Video demo](https://www.youtube.com/watch?v=)
+- [Video demo](https://www.youtube.com/watch?v=kryYux_Ws9o)
 
 ## **Usage**
 
